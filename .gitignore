@@ -140,7 +140,6 @@ static/
 *.swp
 
 # lfs
-*.csv
 
 # Jupyter files 
 .ipynb_checkpoints/*
